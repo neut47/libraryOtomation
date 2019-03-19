@@ -1,0 +1,13 @@
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\bin\Debug\uygulamakutuphane.exe.config
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\bin\Debug\uygulamakutuphane.exe
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\bin\Debug\uygulamakutuphane.pdb
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\obj\Debug\uygulamakutuphane.csprojResolveAssemblyReference.cache
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\obj\Debug\uygulamakutuphane.Form1.resources
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\obj\Debug\uygulamakutuphane.Properties.Resources.resources
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\obj\Debug\uygulamakutuphane.csproj.GenerateResource.Cache
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\obj\Debug\uygulamakutuphane.csproj.CoreCompileInputs.cache
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\obj\Debug\uygulamakutuphane.exe
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\obj\Debug\uygulamakutuphane.pdb
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\obj\Debug\uygulamakutuphane.Form2.resources
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\obj\Debug\uygulamakutuphane.Form3.resources
+C:\Users\vahittin\source\repos\uygulamakutuphane\uygulamakutuphane\obj\Debug\uygulamakutuphane.Form4.resources
